@@ -34,4 +34,4 @@ The proposed method will receive **n** feature points from the FAST feature dete
 3. **Finding Consistent Cliques**: For each node in the graph_T, the algorithm identifies its neighbors in both graph_T and graph_T_plus_1. The common neighbors between these two frames are determined. Subsequently, cliques (complete subgraphs) are extracted from the subgraph formed by these common neighbors. The cliques are filtered to ensure their size does not exceed a predefined max_clique_size.
 
 ## Results
- 
+![clideo_editor_11e6bc3cbdb440ceaa9035836634c817.gif]([https://github.com/Achuthankrishna/Visual_Odom_Clique/blob/main/Results/sample%20graph.png](https://github.com/Achuthankrishna/Visual_Odom_Clique/blob/main/Results/clideo_editor_11e6bc3cbdb440ceaa9035836634c817.gif)https://github.com/Achuthankrishna/Visual_Odom_Clique/blob/main/Results/clideo_editor_11e6bc3cbdb440ceaa9035836634c817.gif)
